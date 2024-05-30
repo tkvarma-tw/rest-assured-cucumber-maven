@@ -1,0 +1,16 @@
+stepDefinitions\BooksSteps.class
+apiEngine\model\responses\UserAccount.class
+apiEngine\Route.class
+runners\TestRunner.class
+stepDefinitions\AccountSteps.class
+apiEngine\EndPoints.class
+apiEngine\model\requests\AuthorizationRequest.class
+apiEngine\model\responses\Token.class
+cucumber\TestContext.class
+apiEngine\model\requests\AddBookRequest.class
+apiTests\E2E_Tests.class
+apiEngine\model\responses\Books.class
+apiEngine\model\Book.class
+stepDefinitions\BaseSteps.class
+apiEngine\model\requests\RemoveBookRequest.class
+apiEngine\model\requests\ISBN.class
